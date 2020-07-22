@@ -1,0 +1,15 @@
+{
+  "name": "trackpoint",
+  "version": "1.0.0",
+  "description": "For tracking points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "(cd backend && yarn start) & (cd web && yarn start)"
+  },
+  "author": "DeathstarNovember",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
